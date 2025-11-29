@@ -32,7 +32,6 @@ int main (void){
 
             }
             else{
-
                 int s=0;
                 s=(par[i]%ar[i]);
                 far[i]=par[i]-s;
